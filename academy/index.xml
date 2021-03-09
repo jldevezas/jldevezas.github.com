@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academy on José Devezas, PhD</title>
+    <link>/academy/</link>
+    <description>Recent content in Academy on José Devezas, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021 José Devezas</copyright>
+    <lastBuildDate>Fri, 05 Mar 2021 16:42:00 +0000</lastBuildDate><atom:link href="/academy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>/academy/projects/</link>
+      <pubDate>Fri, 05 Mar 2021 16:42:00 +0000</pubDate>
+      
+      <guid>/academy/projects/</guid>
+      <description>Army ANT FeedArchive ANT Juggle Juggle Mobile Breadcrumbs Ciclope                              Army ANT Army ANT is an information retrieval research framework that supports experimentation with classical approaches, while also providing a high-level abstraction that motivates the implementation of innovative approaches in a shared evaluation environment.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/academy/publications/</link>
+      <pubDate>Wed, 03 Mar 2021 22:13:00 +0000</pubDate>
+      
+      <guid>/academy/publications/</guid>
+      <description>Journals Conferences Datasets Theses Chapters Reports Unpublished  Journals Devezas, José, and Sérgio Nunes. &amp;ldquo;Characterizing the Hypergraph-of-Entity and the Structural Impact of Its Extensions&amp;rdquo;. Applied Network Science - Special Issue of the 8th International Conference on Complex Networks and Their Applications 5.1 (2020): 79   Devezas, José, and Sérgio Nunes. &amp;ldquo;Hypergraph-of-Entity: A Unified Representation Model for the Retrieval of Text and Knowledge&amp;rdquo;. Open Computer Science 9.1 (2019): 103-127   Devezas, José, and Sérgio Nunes.</description>
+    </item>
+    
+    <item>
+      <title>Posters</title>
+      <link>/academy/posters/</link>
+      <pubDate>Wed, 03 Mar 2021 18:31:00 +0000</pubDate>
+      
+      <guid>/academy/posters/</guid>
+      <description>          </description>
+    </item>
+    
+    <item>
+      <title>Demos</title>
+      <link>/academy/demos/</link>
+      <pubDate>Mon, 01 Mar 2021 18:58:03 +0000</pubDate>
+      
+      <guid>/academy/demos/</guid>
+      <description>    Your browser does not support the video tag, but check out FourEyes website instead. 
+     </description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/academy/slides/</link>
+      <pubDate>Mon, 01 Mar 2021 17:37:00 +0000</pubDate>
+      
+      <guid>/academy/slides/</guid>
+      <description> Talks  Conferences Invited speaker   Lectures  Invited assistant  GIRS 2017/2018   Invited speaker  ASSO 2019/2020 DAPI 2018/2019     Theses  Doctoral Master&amp;rsquo;s    Talks Conferences            Invited speaker           Lectures Invited assistant GIRS 2017/2018               Invited speaker ASSO 2019/2020   DAPI 2018/2019       Theses Doctoral   Master&amp;rsquo;s   </description>
+    </item>
+    
+  </channel>
+</rss>
