@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021 José Devezas</copyright>
-    <lastBuildDate>Fri, 19 Mar 2021 11:17:45 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Apr 2021 19:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>/academy/publications/</link>
+      <pubDate>Wed, 07 Apr 2021 19:00:00 +0000</pubDate>
+      
+      <guid>/academy/publications/</guid>
+      <description>Journals Magazines Conferences Datasets Theses Chapters Reports Unpublished  Journals Devezas, José, and Sérgio Nunes. &amp;ldquo;Characterizing the Hypergraph-of-Entity and the Structural Impact of Its Extensions&amp;rdquo;. Applied Network Science - Special Issue of the 8th International Conference on Complex Networks and Their Applications 5.1 (2020): 79   Devezas, José, and Sérgio Nunes. &amp;ldquo;Hypergraph-of-Entity: A Unified Representation Model for the Retrieval of Text and Knowledge&amp;rdquo;. Open Computer Science 9.1 (2019): 103-127   Devezas, José, and Álvaro Figueira.</description>
+    </item>
+    
     <item>
       <title>Searching through a git repository</title>
       <link>/blog/searching_git/</link>
@@ -27,15 +36,6 @@ git log -Gquery Word difference comparison Running a diff based on words rather 
       
       <guid>/academy/projects/</guid>
       <description>Army ANT FeedArchive ANT Juggle Juggle Mobile Breadcrumbs Ciclope                              Army ANT Army ANT is an information retrieval research framework that supports experimentation with classical approaches, while also providing a high-level abstraction that motivates the implementation of innovative approaches in a shared evaluation environment.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>/academy/publications/</link>
-      <pubDate>Wed, 03 Mar 2021 22:13:00 +0000</pubDate>
-      
-      <guid>/academy/publications/</guid>
-      <description>Journals Conferences Datasets Theses Chapters Reports Unpublished  Journals Devezas, José, and Sérgio Nunes. &amp;ldquo;Characterizing the Hypergraph-of-Entity and the Structural Impact of Its Extensions&amp;rdquo;. Applied Network Science - Special Issue of the 8th International Conference on Complex Networks and Their Applications 5.1 (2020): 79   Devezas, José, and Sérgio Nunes. &amp;ldquo;Hypergraph-of-Entity: A Unified Representation Model for the Retrieval of Text and Knowledge&amp;rdquo;. Open Computer Science 9.1 (2019): 103-127   Devezas, José, and Sérgio Nunes.</description>
     </item>
     
     <item>
